@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+}
+#background {
+	background-color: lightblue;
+	padding: 2% 45% 2% 45%;
+}
+#reverse {
+	font-size: .5em;
+}
+#assemble {
+	font-size: .5em;
+}
+#palindrome {
+	font-size: .5em;
+}
